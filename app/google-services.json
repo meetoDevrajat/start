@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "515624785412",
+    "firebase_url": "https://start-2a340.firebaseio.com",
+    "project_id": "start-2a340",
+    "storage_bucket": "start-2a340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515624785412:android:b87b996ac92771b4",
+        "android_client_info": {
+          "package_name": "co.terx.spinner_start"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515624785412-ij579sco6k8fvg0f836dclev67adqtju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIMDA6Qs2ZAH9_Zr94a4LRgAZm9n8NtYM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
